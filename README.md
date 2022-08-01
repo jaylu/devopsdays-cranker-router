@@ -6,10 +6,10 @@ A demo project for 2022 DevOpsDays Guangzhou.
 
 Basically what you need is run `RunLocalCranker.java`
 
-### If dependency `cranker-connector` is missing
+### If dependency [mu-cranker-router](https://github.com/hsbc/mu-cranker-router) is missing
 
 ```xml
-    <dependency>
+<dependency>
     <groupId>com.hsbc.cranker</groupId>
     <artifactId>mu-cranker-router</artifactId>
     <version>1.0-SNAPSHOT</version>
